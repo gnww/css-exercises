@@ -29,6 +29,8 @@ body {
 
 .header {
   font-size: large;
+  display: flex;
+  flex-direction: column;
 }
 
 .but {
